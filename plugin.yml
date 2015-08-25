@@ -1,0 +1,8 @@
+name: FHPing
+main: shiro.was.there.Ping
+author: Shiro
+version: 2.0
+
+commands:
+   ping:
+      description: ping
